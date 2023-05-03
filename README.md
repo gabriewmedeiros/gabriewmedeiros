@@ -1,9 +1,9 @@
 # Hello There! I'm Gabriel Medeiros 👋 
-  Android Developer Jr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+  I'm a Android Developer from Brazil.
+
+:rocket: Skills: Mobile Android Development with Kotlin and Java
+
+:memo: Currently studying: Android Jetpack Compose
 
 <!---
 gabriewmedeiros/gabriewmedeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
