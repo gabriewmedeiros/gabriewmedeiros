@@ -1,5 +1,5 @@
 # Hello There! I'm Gabriel Medeiros 👋 
-  I'm a Android Developer from Brazil.
+  I'm an Android Developer from Brazil.
 
 :rocket: Skills: Mobile Android Development with Kotlin and Java
 
